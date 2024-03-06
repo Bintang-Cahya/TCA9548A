@@ -38,4 +38,4 @@ Contributions to this library are welcome. Feel free to fork the repository, mak
 
 ## License
 
-This library is licensed under MIT Lisence. Check the
+This library is licensed under MIT Lisence. Check the `LICENSE` file for details.
