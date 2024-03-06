@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Board-STM32-yellow?logo=stmicroelectronics)
+[![GitHub Release](https://img.shields.io/github/release/Bintang-Cahya/TCA9548A.svg?logo=github&label=Version&color=yellow)](https://github.com/Bintang-Cahya/TCA9548A/releases/tag/v1.0.0)
+
 # TCA9548A Library
 
 This library provides functions to control the TCA9548A I2C multiplexer switch on STM32 microcontrollers.
