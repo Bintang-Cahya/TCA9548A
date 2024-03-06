@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Board-STM32-yellow?logo=stmicroelectronics)
-[![GitHub Release](https://img.shields.io/github/release/Bintang-Cahya/TCA9548A.svg?logo=github&label=Version&color=yellow)](https://github.com/Bintang-Cahya/TCA9548A/releases/tag/v1.0.0)
+[![GitHub Release](https://img.shields.io/github/release/Bintang-Cahya/TCA9548A.svg?logo=github&label=Version&color=yellow)](https://github.com/Bintang-Cahya/TCA9548A/releases/tag/v1.0.0?target="_blank")
 
 # TCA9548A Library
 
