@@ -24,7 +24,7 @@ The TCA9548A is an I2C multiplexer switch that allows you to control multiple I2
 2. Copy the `TCA9548A` folder into your STM32 project's `Libraries` directory.
 3. Include the library header file in your project:
    ```c
-   #include "TCA9548A.h"
+   #include "tca9548a.h"
    ```
    
 ## Library Functions
